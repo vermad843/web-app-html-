@@ -1,0 +1,39 @@
+.title {
+    text-align : center;
+    font-weight : bold;
+}
+
+.mew-form,.loading {
+   width :  50%;
+   margin : 0 auto;
+}
+
+.code {
+    max-width : 200px;
+    color : black;
+}
+
+body {
+    background : linear-gradient(rgba(255,0,0,0.5),rgba(0,0,0,0.5) ), url(ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+    height : 1000px;
+    background-repeat : no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    grid-template-columns: 1fr;
+}
+
+
+.button-primary {
+    border-radius  : 3%;
+}
+
+
+.loading {
+    text-align: center;
+}
+
+.mews {
+    width : 80%;
+    margin : 0 auto;
+    color : white;
+}
